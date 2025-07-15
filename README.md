@@ -1,3 +1,4 @@
-FreeCodeCamp project - Tribute Page
+This is a responsive Tribute Page built using HTML and CSS as part of the FreeCodeCamp Responsive Web Design Certification.
+It showcases a clean layout with structured content and semantic HTML elements.
 
-See this page live at https://arnasne.github.io/FCC-Tribute-Page/
+👉 Live preview: https://arnasne.github.io/FCC-Tribute-Page/
